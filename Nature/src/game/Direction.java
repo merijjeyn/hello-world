@@ -9,3 +9,4 @@ package game;
  * it will be reset when grading your project.
  */
 public enum Direction { UP, DOWN, LEFT, RIGHT }
+// hahahahahahaha
